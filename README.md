@@ -7,6 +7,7 @@
 ### Solução:
 Este código implementa uma base para jogos de cartas, organizando em modelos principais em:
 Carta, Jogador, Mão, Jogada, Rodada e Estatísticas.
+A lógica específica do jogo permite adaptar para diferentes jogos (truco, poker, etc.).
 
 ### Carta:
 - Representando os atributos genéricos de toda carta: Valor (Às, 2, Rei, Bloqueio...) e Tipo (Copas, Espadas, Vermrlho, Verde...).
