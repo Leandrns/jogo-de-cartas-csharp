@@ -28,7 +28,7 @@ A lógica específica do jogo permite adaptar para diferentes jogos (truco, poke
 - Número da rodada
 - Registra a jogada e adiciona na lista jogadas
 
-### Estatísticas
+### Estatísticas:
 - Conta vitórias, derrotas e empates
 - Métodos para registrar cada resultado
 - ToString() retorna resumo formatad
