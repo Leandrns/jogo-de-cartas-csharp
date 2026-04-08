@@ -10,7 +10,7 @@ Carta, Jogador, Mão, Jogada, Rodada e Estatísticas.
 A lógica específica do jogo permite adaptar para diferentes jogos (truco, poker, etc.).
 
 ### Carta:
-- Representando os atributos genéricos de toda carta: Valor (Às, 2, Rei, Bloqueio...) e Tipo (Copas, Espadas, Vermrlho, Verde...).
+- Representando os atributos genéricos de toda carta: Valor (Às, 2, Rei, Bloqueio...) e Tipo (Copas, Espadas, Vermelho, Verde...).
 - Contém o método de virar a carta na mesa com VirarCarta().
 
 ### Jogador: 
